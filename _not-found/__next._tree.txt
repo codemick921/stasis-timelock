@@ -1,4 +1,4 @@
-:HL["/stasis-timelock/_next/static/chunks/1-zdmpm21_275.css","style"]
+:HL["/stasis-timelock/_next/static/chunks/0n_re9mi9k4i-.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"VmHAXdPxuXXc5Vd02HjBS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pLrrK7E-7m-eFlASlv-EL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

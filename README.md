@@ -6,3 +6,4 @@ Static build of a non-custodial USDC time lock on Solana.
 - Android: "Use installed wallet" routes to Seed Vault, Phantom or Solflare via MWA.
 - Desktop: Phantom or Solflare browser extensions.
 - Set your wallet to **Devnet** before signing.
+- Privacy: /privacy.html · Support: /support.html
