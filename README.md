@@ -1,0 +1,10 @@
+# Stasis — devnet demo
+
+Static build of a non-custodial USDC time lock on Solana.
+
+- Program: `ATNeGq8Dkn8Xxjq9XELziu6yaLg1WA7kRrjNjas6yhjn` (devnet)
+- Lock funds until a timestamp; no admin, no early exit.
+- Wallet: Seeker Seed Vault via Mobile Wallet Adapter, or Phantom/Solflare on desktop.
+
+This repository contains the compiled static site only. The app talks directly to
+the Solana devnet RPC and needs devnet USDC and a little devnet SOL.
